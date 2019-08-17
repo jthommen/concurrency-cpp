@@ -1,5 +1,5 @@
 #include<iostream>
-#include "lib/common.hpp"
+#include "../lib/common.hpp"
 
 void foo()
 {

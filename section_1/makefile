@@ -10,7 +10,7 @@ LIB=-I ./lib
 INC=-I/usr/local/include
 
 # Set app name
-FNAME=parameters
+FNAME=parallel_accumulate
 
 # Set dependencies needed to compile
 #HEADERS = $(LIB)/Graph.h $(LIB)/GUI.h $(LIB)/Simple_window.h $(LIB)/std_lib_facilities.h $(LIB)/Window.h
